@@ -1,0 +1,416 @@
+@media only screen and (max-width : 767px) {
+    .navbar-light .navbar-brand {
+        width: 130px;
+        margin-left: 5px;
+    }
+    .navbar-light{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+    .navbar-light .navbar-toggler {
+        background-color: white;
+        font-size: 15px;
+    }
+    .navbar-nav{
+        margin-top: 20px;
+    }
+    .single-slider-item {
+        height: 100%;
+        position: relative;
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .home-slider {
+        margin-top: 80px;
+    }
+    .slider-text h1 {
+        font-size: 25px;
+    }
+    .slider-text p {
+        margin: 21px auto 28px;
+        font-size: 15px;
+    }
+
+    .home-slider .owl-nav.disabled+.owl-dots {
+        bottom: 10px;
+    }
+    .ptb-100 {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .pt-100 {
+        padding-top: 50px;
+    }
+    .pb-70 {
+        padding-bottom: 30px;
+    }
+    .pt-70 {
+        padding-top: 30px;
+    }
+    .mt-60 {
+        margin-top: 40px;
+    }
+    .mt-50 {
+        margin-top: 30px;
+    }
+    .pb-40 {
+        padding-bottom: 30px;
+    }
+    .about-p {
+        margin: 10px auto 30px;
+    }
+    .position-inside-two h1 {
+        font-size: 40px;
+    }
+    .position-inside-two h2 {
+        bottom: 8px;
+        font-size: 16px;
+    }
+    .responsive-content i {
+        font-size: 15px;
+        margin-right: 0px;
+        margin-bottom: 17px;
+    }
+    .position-inside h1 {
+        font-size: 50px;
+    }
+    .position-inside h2 {
+        bottom: 11px;
+        font-size: 17px;
+    }
+    .about-position-two p {
+        margin: 15px 0 35px;
+        font-size: 14px;
+    }
+    .about-position-four h1 {
+        font-size: 50px;
+    }
+    .about-position-four h2 {
+        bottom: 12px;
+        font-size: 17px;
+    }
+    .single-page-font {
+        height: 250px;
+        margin-bottom: 30px;
+        padding: 0px;
+    }
+    .single-page-font i {
+        font-size: 75px;
+    }
+    .single-page-font h3 {
+        font-size: 21px;
+        margin: 25px 0 0;
+    }
+    .custom-btn{
+        font-size: 14px;
+        padding: 15px 30px;
+    }
+    .custom-btn-two {
+        font-size: 14px;
+        padding: 15px 35px;
+        margin-top: 10px;
+    }
+    .single-service h3 {
+        margin: 20px 0 14px;
+        font-size: 18px;
+    }
+    .single-service {
+        margin-bottom: 30px;
+    }
+    .counter-heading h2 {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+    .single-feature {
+        padding-left: 75px;
+        margin-bottom: 30px;
+    }
+    .single-feature img {
+        width: 55px;
+    }
+    .single-feature h3 {
+        margin: 0 0 10px;
+        font-size: 18px;
+    }
+    .single-weare .slider-text img {
+        padding-top: 70px;
+        padding-bottom: 25px;
+    }
+    .single-weare .slider-text h1 {
+        margin: 0 0 0;
+    }
+    
+    .custom-btn-three {
+        font-size: 14px;
+        padding: 15px 35px;
+        width: 200px;
+        margin-bottom: 20px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .single-card-top h3 {
+        padding: 30px 0 10px;
+    }
+    .single-card-top h2 {
+        margin-bottom: 25px;
+    }
+    .single-card-top p {
+        padding-bottom: 30px;
+    }
+    .single-card-bottom {
+        padding-top: 20px;
+    }
+    .single-card-bottom a {
+        padding: 13px 0;
+    }
+    .single-counter h3 {
+        margin: 0 0 -3px;
+        font-size: 40px;
+    }
+    .pricing-footer h3 {
+        padding: 10px 0;
+        font-size: 18px;
+    }
+    .pricing-footer a {
+        padding: 6px 0;
+        border-top: 2px solid #ffe400;
+        font-size: 17px;
+    }
+    .portfolio-nav ul li a {
+        padding: 4px 15px;
+        margin: 5px;
+    }
+    .slider-text-two h1 {
+        font-size: 26px;
+        padding: 82px 15px 16px;
+    }
+    .slider-text-two p {
+        font-size: 17px;
+        margin: 0px auto 40px;
+    }
+    .custom-btn-four {
+        font-size: 14px;
+        padding: 15px 35px;
+        width: 200px;
+        margin-bottom: 45px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .single-blog-content h3 {
+        font-size: 18px;
+        margin: 25px 0 4px;
+    }
+    .default-btn {
+        font-size: 12px;
+    }
+    .transform-p {
+        margin-bottom: 10px;
+    }
+    .single-blog-content .under-p {
+        margin: 0px auto 20px;
+    }
+    .contact-form .form-control {
+        height: 45px;
+        font-size: 14px;
+    }
+    #toTop {
+        bottom: 76px;
+    }
+    .original-map {
+        height: 300px;
+    }
+    .back-to-top-btn i {
+        height: 45px;
+        width: 45px;
+        font-size: 22px;
+        margin-right: 10px;
+    }
+    .single-team .single-team-content h3 {
+        padding: 9px 0;
+        font-size: 22px;
+    }
+    .single-team .single-team-content p {
+        padding: 9px 0;
+        font-size: 15px;
+    }
+    .single-footer {
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .single-three-footer {
+        text-align: center;
+    }
+    .single-two-footer {
+        margin-bottom: 30px;
+    }
+    .single-two-footer i {
+        margin-right: 12px;
+        margin-left: 12px;
+    }
+    .single-footer p {
+        margin-top: 20px;
+    }
+    .single-three-footer p {
+        margin-top: 20px;
+    }
+}
+
+@media only screen and (min-width : 768px) and (max-width : 991px) {
+    .ptb-100 {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .pt-100 {
+        padding-top: 70px;
+    }
+    .pb-70 {
+        padding-bottom: 10px;
+    }
+    .pt-70 {
+        padding-top: 10px;
+    }
+    .mt-60 {
+        margin-top: 40px;
+    }
+    .navbar-light .navbar-brand {
+        width: 135px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+        margin-left: 0;
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+    .home-slider {
+        margin-top: 110px;
+    }
+    .slider-text h1 {
+        font-size: 45px;
+    }
+    .slider-text p {
+        font-size: 18px;
+        max-width: 615px;
+        margin: 20px auto 40px;
+    }
+    .home-slider .owl-nav.disabled+.owl-dots {
+        bottom: -5px;
+    }
+    .single-page-font {
+        height: 300px;
+        padding: 10px;
+    }
+    .single-page-font i {
+        font-size: 70px;
+    }
+    .single-page-font h3 {
+        font-size: 20px;
+    }
+    .single-page-font:hover p {
+        margin: 15px 0 0;
+        line-height: 20px;
+    }
+    .about-p {
+        margin: 15px auto 30px;
+    }
+    .about-position-two p {
+        margin: 20px 0 20px;
+        font-size: 16px;
+    }
+    .single-service h3 {
+        margin: 25px 0 17px;
+        font-weight: bold;
+        font-size: 20px;
+        text-transform: uppercase;
+    }
+    .counter-heading h2 {
+        margin-bottom: 30px;
+    }
+    .single-counter h3 {
+        margin: 0 0 0;
+    }
+    .position-inside h2 {
+        font-size: 30px;
+    }
+    .single-feature {
+        margin-bottom: 30px;
+    }
+    .single-feature h3 {
+        margin: 0 0 20px;
+    }
+    .single-weare .slider-text img {
+        padding-top: 80px;
+        padding-bottom: 17px;
+    }
+    .single-weare .slider-text h1 {
+        margin: 0 0 29px;
+    }
+    .custom-btn-three {
+        margin-bottom: 80px;
+    }
+    .single-card-top h3 {
+        padding: 20px 0 25px;
+    }
+    .single-card-top h2 {
+        margin-bottom: 25px;
+    }
+    .single-card-top p {
+        padding-bottom: 30px;
+    }
+    .single-card-bottom {
+        padding-top: 20px;
+    }
+    .single-card-bottom a {
+        padding: 15px 0;
+    }
+    .single-team .single-team-content h3 {
+        padding: 15px 0;
+        font-size: 20px;
+    }
+    .single-team .single-team-content p {
+        padding: 15px 0;
+    }
+    .slider-text-two h1 {
+        font-size: 38px;
+        padding: 90px 0 20px;
+    }
+    .slider-text-two p {
+        font-size: 18px;
+        max-width: 550px;
+        margin: 0 auto 52px;
+    }
+    .custom-btn-four {
+        margin-bottom: 80px;
+    }
+    .single-blog-content h3 {
+        margin: 35px 0 10px;
+    }
+    .transform-p {
+        margin-bottom: 20px;
+    }
+    .single-blog-content .under-p {
+        margin: 0 auto 20px;
+    }
+    .single-footer {
+        text-align: center;
+        margin-top: 25px;
+    }
+    .single-three-footer {
+        text-align: center;
+    }
+}
+
+@media only screen and (min-width : 992px) and (max-width : 1199px) {
+    .home-slider {
+        margin-top: 111px;
+    }
+    .slider-text h1 {
+        font-size: 50px;
+    }
+    .slider-text p {
+        font-size: 18px;
+    }
+    .single-two-footer i {
+        margin-right: 12px;
+        margin-left: 12px;
+    }
+}
